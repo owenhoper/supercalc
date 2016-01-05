@@ -14,6 +14,9 @@
 		5A18D3B51C3B262800D6536A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A18D3B31C3B262800D6536A /* LaunchScreen.storyboard */; };
 		5A18D3C01C3B262800D6536A /* supercalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A18D3BF1C3B262800D6536A /* supercalcTests.swift */; };
 		5A18D3CB1C3B262800D6536A /* supercalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A18D3CA1C3B262800D6536A /* supercalcUITests.swift */; };
+		5A18D3D91C3B2FA400D6536A /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A18D3D81C3B2FA400D6536A /* Minecraft.ttf */; };
+		5A18D3DB1C3B40A700D6536A /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A18D3DA1C3B40A600D6536A /* Minecraft.ttf */; };
+		5A18D3DD1C3B40B300D6536A /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5A18D3DC1C3B40B200D6536A /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		5A18D3C61C3B262800D6536A /* supercalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = supercalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A18D3CA1C3B262800D6536A /* supercalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = supercalcUITests.swift; sourceTree = "<group>"; };
 		5A18D3CC1C3B262800D6536A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A18D3D81C3B2FA400D6536A /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		5A18D3DA1C3B40A600D6536A /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		5A18D3DC1C3B40B200D6536A /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +87,7 @@
 				5A18D3BE1C3B262800D6536A /* supercalcTests */,
 				5A18D3C91C3B262800D6536A /* supercalcUITests */,
 				5A18D3A81C3B262700D6536A /* Products */,
+				5A18D3D81C3B2FA400D6536A /* Minecraft.ttf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,6 +104,8 @@
 		5A18D3A91C3B262800D6536A /* supercalc */ = {
 			isa = PBXGroup;
 			children = (
+				5A18D3DA1C3B40A600D6536A /* Minecraft.ttf */,
+				5A18D3DC1C3B40B200D6536A /* btn.wav */,
 				5A18D3AA1C3B262800D6536A /* AppDelegate.swift */,
 				5A18D3AC1C3B262800D6536A /* ViewController.swift */,
 				5A18D3AE1C3B262800D6536A /* Main.storyboard */,
@@ -234,6 +243,9 @@
 			files = (
 				5A18D3B51C3B262800D6536A /* LaunchScreen.storyboard in Resources */,
 				5A18D3B21C3B262800D6536A /* Assets.xcassets in Resources */,
+				5A18D3DB1C3B40A700D6536A /* Minecraft.ttf in Resources */,
+				5A18D3DD1C3B40B300D6536A /* btn.wav in Resources */,
+				5A18D3D91C3B2FA400D6536A /* Minecraft.ttf in Resources */,
 				5A18D3B01C3B262800D6536A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
